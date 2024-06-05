@@ -1,4 +1,4 @@
-# Video/Audio files to text conversion using python an d IBM Watson
+# Video/Audio files to Text Conversion using Python and IBM Watson
 
 This Python script demonstrates how to use IBM Watson's Speech to Text API to transcribe audio files into text. It provides step-by-step instructions on how to set up and run the code.
 
